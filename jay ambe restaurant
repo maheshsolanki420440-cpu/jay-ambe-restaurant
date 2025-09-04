@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit - Jay Ambe Restaurant website"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/jay-ambe-restaurant.git
+git push -u origin main
